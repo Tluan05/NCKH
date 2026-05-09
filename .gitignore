@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+testcasee/
+# Model weights
+scratch/
+# Dataset / processed data
+Processed_Audio_5s/
+
+# Generated reports/plots
+eda_plots/
+advanced_eda_report/
+
+# Logs
+*.log
+*.pth
+*.pt
+*.ckpt
+
+data/
+datasets/
+# OS files
+.DS_Store
+Thumbs.db
